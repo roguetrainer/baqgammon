@@ -1,6 +1,9 @@
 # Quantum Backgammon Implementation Package
 
+![](./Baqgammon_Victorian.png)
+
 This package contains comprehensive implementation guidance and a working prototype for experiencing quantum mechanics through gameplay.
+
 
 ## ⚖️ Attribution & Acknowledgments
 
