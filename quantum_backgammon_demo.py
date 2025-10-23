@@ -2,6 +2,33 @@
 """
 Quantum Backgammon - Variant 1 Prototype
 Simple playable demo of quantum dice with delayed measurement
+
+ATTRIBUTION:
+-----------
+Theoretical Foundation:
+  - Quantum game theory framework: Eisert, Wilkens & Lewenstein (1999)
+    "Quantum games and quantum strategies", Physical Review Letters
+  - Quantum mechanics formalism: Nielsen & Chuang (2010)
+    "Quantum Computation and Quantum Information"
+  - Measurement theory and density matrices: Standard quantum mechanics
+
+Implementation:
+  - All code is original work written specifically for this educational project
+  - Uses standard Python libraries (NumPy) with standard quantum mechanics formulas
+  - Mathematical formulas from cited theoretical sources
+  - No code copied from existing quantum computing libraries
+
+Novel Contributions:
+  - Application to backgammon (first quantum backgammon implementation)
+  - Delayed measurement strategy as game mechanic
+  - Von Neumann entropy as strategic metric
+  - Pedagogical progression through three variants
+
+License:
+  - Educational and academic use encouraged
+  - Dependencies: NumPy (BSD 3-Clause)
+
+For full attribution details, see ACKNOWLEDGMENTS.md
 """
 
 import numpy as np

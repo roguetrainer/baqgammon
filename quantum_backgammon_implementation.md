@@ -1,6 +1,37 @@
 # Quantum Backgammon: Implementation Guide
 ## Making Quantum Mechanics Playable and Experiential
 
+**ATTRIBUTION & ACKNOWLEDGMENTS**
+
+This implementation guide builds upon established quantum game theory research:
+
+**Theoretical Foundation:**
+- Eisert, J., Wilkens, M., & Lewenstein, M. (1999). "Quantum games and quantum strategies." Physical Review Letters, 83(15), 3077-3080.
+- Meyer, D. A. (1999). "Quantum strategies." Physical Review Letters, 82(5), 1052-1055.
+- Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
+
+**Original Contributions:**
+- Application to backgammon (novel)
+- Three-variant pedagogical progression (original design)
+- Delayed measurement as game mechanic (novel strategy)
+- Von Neumann entropy as strategic metric (original application)
+- All implementation code (written from scratch using NumPy)
+- Visualization strategies (original design)
+
+**Code:**
+- All implementations are original work
+- Uses standard quantum mechanics formulas from cited sources
+- Built with NumPy, Matplotlib (standard open-source libraries)
+- No code copied from existing quantum computing libraries
+
+**Educational Approach Influenced By:**
+- Interactive learning research (Matuschak & Nielsen, Bret Victor)
+- Visual mathematics education (3Blue1Brown)
+
+For complete attribution details, see ACKNOWLEDGMENTS.md
+
+---
+
 This guide shows how to implement the three quantum backgammon variants in a way that makes the quantum aspects visible, intuitive, and strategically meaningful to players.
 
 ---

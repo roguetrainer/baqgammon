@@ -2,6 +2,18 @@
 
 This package contains comprehensive implementation guidance and a working prototype for experiencing quantum mechanics through gameplay.
 
+## ⚖️ Attribution & Acknowledgments
+
+**Please see [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md) for complete attribution.**
+
+**Key Points:**
+- **Theoretical foundation**: Eisert, Wilkens & Lewenstein (1999); Meyer (1999); Nielsen & Chuang (2010)
+- **Original contributions**: All code, visualizations, and game mechanics are original work
+- **No code copied**: Built from scratch using standard libraries (NumPy, Matplotlib)
+- **Proper citations**: Academic papers properly referenced in theoretical sections
+
+---
+
 ## Files Included
 
 ### 1. `quantum_backgammon_implementation.md`
